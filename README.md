@@ -4,6 +4,7 @@ This app provides basic functionality for adding, deleting, updating and display
 
 ## Getting Started
 
+
 1). A NoteListScreen widget that displays a list of notes and provides options to add and delete notes.
 
 2). The Database object is initialized using SQLite to store notes locally.
@@ -17,6 +18,8 @@ This app provides basic functionality for adding, deleting, updating and display
 6). Each note has a delete button (IconButton) that allows users to delete a note.
 
 7). When the app starts, it initializes the database and retrieves existing notes from the database.
+
+
 
 
 
